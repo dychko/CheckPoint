@@ -363,7 +363,8 @@ header .log-or-reg a:active {
 	position: relative;
 	top: -10px;
 	left: 18px;
-	width: 210px;	
+	width: 210px;
+	font-weight: normal;
 }
 
 .products ul li a .badge {
